@@ -14,7 +14,7 @@ keterlambatan pembayaran 90+ hari dalam 2 tahun ke depan, dilengkapi penjelasan
 <!-- Ganti dengan screenshot asli kamu. Simpan di folder screenshots/ lalu update path di bawah -->
 | Low Risk | Medium Risk | High Risk |
 |---|---|---|
-| ![Low Risk](SS/low.webp) | ![Medium Risk](SS/medium.png) | ![High Risk](SS/high.webp) |
+| ![Low Risk](SS/low.webp) | ![Medium Risk](SS/medium.png) | ![High Risk](SS/high.png) |
 
 ## Latar Belakang
 
