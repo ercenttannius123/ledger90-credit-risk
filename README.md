@@ -164,7 +164,7 @@ Frontend tersedia di `http://localhost:5173`.
 ## Author
 
 Ercent — Computer Science Student, Binus University
-[LinkedIn](#) · [Email](#)
+[LinkedIn](www.linkedin.com/in/ercent-tannius) · [Email](ercent.tannius@binus.ac.id)
 
 ---
 
