@@ -26,8 +26,6 @@ Selain akurasi, industri perbankan juga membutuhkan **transparansi** dalam keput
 (nasabah berhak tahu alasan pengajuannya ditolak). Karena itu, project ini tidak hanya menghasilkan
 skor risiko, tapi juga penjelasan **SHAP** untuk lima faktor paling berpengaruh di setiap prediksi.
 
-> Catatan: ini adalah project portfolio/proof-of-concept untuk menunjukkan pemahaman end-to-end
-> credit risk modeling — bukan sistem production-ready untuk penggunaan bank sungguhan.
 
 ## Dataset
 
@@ -77,7 +75,7 @@ mengindikasikan sinyal dari fitur yang kuat, bukan hasil overfitting ke satu alg
 ├── Frontend/                       # Aplikasi React + Vite
 │   ├── src/
 │   └── package.json
-└── screenshots/                    # Screenshot demo untuk README
+└── SS/                    # Screenshot demo untuk README
 ```
 
 ## Tech Stack
@@ -96,7 +94,6 @@ cd ledger-90
 
 ### 2. Jalankan backend
 ```bash
-pip install -r requirements.txt
 python app.py
 ```
 Backend tersedia di `http://localhost:8000` (atau port yang kamu set).
