@@ -164,8 +164,7 @@ Frontend tersedia di `http://localhost:5173`.
 ## Author
 
 Ercent — Computer Science Student, Binus University
-[LinkedIn](www.linkedin.com/in/ercent-tannius) · [Email](ercent.tannius@binus.ac.id)
-
+[LinkedIn](https://www.linkedin.com/in/ercent-tannius) · [Email](mailto:ercent.tannius@binus.ac.id)
 ---
 
 *Project ini dibuat untuk portofolio pembelajaran credit risk modeling — bukan produk finansial resmi.*
